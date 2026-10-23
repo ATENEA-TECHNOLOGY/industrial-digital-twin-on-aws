@@ -159,6 +159,8 @@ This guidance solution will run indefintely producing simulated data. If you are
 
 ## Next Steps
 
+For a standardized, repeatable procedure to model templates (scenes, dashboards, property mappings) and to simplify the construction of complex digital twins through the dynamic provisioning software, see the [Runbook](./RUNBOOK.md).
+
 This guidance provides a base framework from which you can build on top for your Industrial Solution. With this guidance, you can modify certain aspects of this system to be tailored to your environment. This may include the following:
 - Customization to data ingestion with services like AWS IoT Greengrass, AWS IoT SiteWise, and data ingestion AWS partners.
 - Import of your own 3D models or Matterport integration with AWS IoT TwinMaker
